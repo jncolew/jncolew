@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jncolew
 - 👀 I’m interested in starting this journey of coding. 
-- 🌱 I’m currently learning on The Odin Project.
+- 🌱 I’m currently learning on SheCodes.io.
 - 💞️ I’m looking to collaborate on ... TBD
 
 
