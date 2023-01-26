@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jncolew
-- 👀 I’m interested in starting this journey of coding. 
-- 🌱 I’m currently learning on SheCodes.io.
-- 💞️ I’m looking to collaborate on ... TBD
+- 👋 Hi, I’m Jada!
+- 👀 I started coding for fun and then it turned into a passion. 
+- 🌱 I’m currently learning with SheCodes.io workshops.
+- 💞️ I’m looking to collaborate with more women developers, and I love teaching Black girls how to start coding!
 
 
 <!---
